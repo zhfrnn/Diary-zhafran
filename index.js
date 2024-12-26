@@ -1,5 +1,5 @@
 console.log("Jadi ini hanya untuk daily in my life hahaha");
 
-console.log("aku masi bingung mau belajar flutter apa engga soalnya kalo di lihat lihat kalo pake flutter gampang sih jadi pengen aja gitu.");
+console.log("HOHO udah ga sama si 'k' yah, kasian amat. ");
 
-console.log("Hey, 'K' you such a pretty girl ")
+// console.log("Hey, 'K' you such a pretty girl ")
